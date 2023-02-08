@@ -1,4 +1,4 @@
-e# Cardinal Staking UI
+e# Cardinal Staking UI 
 
 This repository hosts the UI inteface that powers **https://stake.cardinal.so** for staking NFTs on Solana.
 
